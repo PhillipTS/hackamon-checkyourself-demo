@@ -4569,10 +4569,6 @@ map-visit@^1.0.0:
   dependencies:
     object-visit "^1.0.0"
 
-material-icons@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/material-icons/-/material-icons-0.2.1.tgz#d99d8db6532ca608a9d1c23bfb9e4733a43b80d0"
-
 material-ui@^1.0.0-beta.41:
   version "1.0.0-beta.41"
   resolved "https://registry.yarnpkg.com/material-ui/-/material-ui-1.0.0-beta.41.tgz#0869bed008caa10003ab20ea726476b560c23160"
